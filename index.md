@@ -10,7 +10,3 @@ But you have already see this page ,so is not possible.Haha
 I will very glad to receive your Messages. (-w -) // **
 
 [about]: http://chenhongbiao.github.com/cn/about/
-
-
-
-
