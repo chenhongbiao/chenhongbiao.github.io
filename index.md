@@ -11,6 +11,6 @@ which contains the independence of thought and freedom of action.
 Currently my research interests include Neural Science, Artificial Intelligence and Brain research.
 I will very glad to receive your Messages.Haha! (-w -) // **
 
-[about]: http://chenhongbiao.github.com/cn/about/
+[about]: http://chenhongbiao.github.io/cn/about/
 
 
