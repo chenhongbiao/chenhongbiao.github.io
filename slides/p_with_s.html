@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+ "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta https-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta https-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="cys" />
   <title>introduce of &quot;A new method to measure the semantic similarity of GO&quot; terms</title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" type="text/css" media="screen, projection, print"
-    href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
-  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-  <script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js.gz"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js.gz"
     charset="utf-8" type="text/javascript"></script>
 </head>
 <body>
@@ -48,7 +48,7 @@ cys
 <li>availability</li>
 </ul>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="http://bioinformatics.clemson.edu/G-SESAME/index.php">http://bioinformatics.clemson.edu/G-SESAME/index.php</a></li>
+<li><a href="https://bioinformatics.clemson.edu/G-SESAME/index.php">https://bioinformatics.clemson.edu/G-SESAME/index.php</a></li>
 </ol>
 </div>
 <div id="introduction" class="slide section level1">
@@ -66,7 +66,7 @@ cys
 <li>outdated method measure gene functional similarities based on
 <ul class="incremental">
 <li>the probability of the appearance of GO terms</li>
-<li>the <a href="http://www.agreestat.com/research_papers/kappa_statistic_is_not_satisfactory.pdf">kappa statistics</a> of similar annotation terms correlated with different genes</li>
+<li>the <a href="https://www.agreestat.com/research_papers/kappa_statistic_is_not_satisfactory.pdf">kappa statistics</a> of similar annotation terms correlated with different genes</li>
 </ul></li>
 <li>ignore the semantic relations (‘is-a’ and ‘part-of ’)</li>
 </ol>
@@ -84,7 +84,7 @@ cys
 <h1>p4: outdated method</h1>
 <ol class="incremental" style="list-style-type: decimal">
 <li>Lin: <span class="math">\[Sim_{Lin}(t_1,t_2)=\frac{2*IC(t_{MICA})}{IC(t_1)+IC(t_2)}\]</span></li>
-<li><a href="http://arxiv.org/pdf/cmp-lg/9709008v1.pdf">Jiang</a>: <span class="math">\[wt(c,p)=\left(\beta+(1-\beta)\frac{\bar{E}}{E(p)}\right)\left(\frac{d(p)+1}{d(p)}\right)^\alpha[IC(c)-IC(p)]T(c,p)\]</span> <span class="math">\[Dist(w_1,w_2)=\sum\limits_{c \in\{path(c_1,c_2)-LSuper(c_1,c_2)\} }wt(c,parent(c))\]</span></li>
+<li><a href="https://arxiv.org/pdf/cmp-lg/9709008v1.pdf">Jiang</a>: <span class="math">\[wt(c,p)=\left(\beta+(1-\beta)\frac{\bar{E}}{E(p)}\right)\left(\frac{d(p)+1}{d(p)}\right)^\alpha[IC(c)-IC(p)]T(c,p)\]</span> <span class="math">\[Dist(w_1,w_2)=\sum\limits_{c \in\{path(c_1,c_2)-LSuper(c_1,c_2)\} }wt(c,parent(c))\]</span></li>
 </ol>
 <ul class="incremental">
 <li>Drawback: shallow annotation if two gene products are well annotated near the root of the ontology (shallow annotation), their semantic similarity will always be measured at very high (close to 1) and their <strong>semantic distance</strong> will always be computed close to nil, thus providing a misleading result.</li>
@@ -136,7 +136,7 @@ cys
 </div>
 <div id="validation" class="slide section level1">
 <h1>3 validation</h1>
-<p><a href="http://en.wikipedia.org/wiki/Enzyme_Commission_number">EC number</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Enzyme_Commission_number">EC number</a></p>
 </div>
 <div id="future-studies" class="slide section level1">
 <h1>future studies</h1>

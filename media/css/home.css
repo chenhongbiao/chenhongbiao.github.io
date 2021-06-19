@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-@import url(https://fonts.useso.com/css?family=Bad+Script);
-
 @media screen {
 .container {
 width:auto;
@@ -16,7 +14,6 @@ line-height:30px;
 }
 
 html {
-meta charset="UTF-8";
 font-size: 100%;
 -webkit-text-size-adjust:100%;
 -ms-text-size-adjust:100%;
@@ -340,7 +337,7 @@ height:auto;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-font-family: Bad Script;
+font-family: Arial;
 }
 
 .nav>li>a {
@@ -423,7 +420,7 @@ visibility:hidden;
 }
 
 .sitename {
-font-family: Bad Script;
+font-family: Arial;
 }
 
 footer,header,nav,.show {

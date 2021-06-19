@@ -11,5 +11,3 @@ I like the experience of beling alive and thinking about thinking,
 but I also like the philosophical motto "nothing is true, everything is permitted" from Assassin's Creed.
 
 Hope you find something interesting here and we can contribute to the future a bit (-w -) // **
-
-
