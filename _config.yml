@@ -1,2 +1,4 @@
-markdown: rdiscount
+#Jekyll configuration
+
+markdown: kramdown
 
