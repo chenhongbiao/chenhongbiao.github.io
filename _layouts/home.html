@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Chen Hongbiao | 陈宏标</title>
   <meta name="author" content="Chen Hongbiao | 陈宏标"/>
-  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+  <meta name="viewport" content="width=device-width initial-scale=1.0">
   <link rel="stylesheet" type="text/css"
 media="screen and (min-width: 700px)"   href="/media/css/home.css"/>
 
@@ -40,14 +40,15 @@ media="screen and (max-width: 700px)"   href="/media/css/tinyhome.css"/>
 <body>
 
 <div class="container">
-{% if page.avatar %} <p><img src="https://ww1.sinaimg.cn/large/8935112bgy1gro0r5txocj20bw0bw74r.jpg" title="Chen Hongbiao"  /></p> {% endif %}
+{% if page.avatar %} <p><img src="https://ww1.sinaimg.cn/large/8935112bgy1gro0r5txocj20bw0bw74r.jpg", title="Chen Hongbiao",  width=60% /></p> {% endif %}
 <div class="headname"><li><h1 class="sitename">Chen Hongbiao 
 </h1></li>
 <li><wb:follow-button uid="2301956395" type="red_1" width="67" height="24" ></wb:follow-button></li>
 </div>
 
 <!---
-<iframe width="136" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="https://widget.weibo.com/relationship/followbutton.php?language=zh_cn &uid=2301956395&style=1&btn=red&dpc=1"></iframe>
+<iframe width="180" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" 
+border="0" src="https://widget.weibo.com/relationship/followbutton.php?language=zh_cn &uid=2301956395&style=1&btn=red&dpc=1"></iframe>
 --->
 
 {{ content }}
