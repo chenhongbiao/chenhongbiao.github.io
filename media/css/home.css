@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 @import url(https://fonts.useso.com/css?family=Bad+Script);
 
 @media screen {
@@ -14,7 +16,8 @@ line-height:30px;
 }
 
 html {
-font-size:100%;
+meta charset="UTF-8";
+font-size: 100%;
 -webkit-text-size-adjust:100%;
 -ms-text-size-adjust:100%;
 }
