@@ -2,6 +2,7 @@
 Author: mg12
 Update: 2012/05/04
 Author URI: http://www.neoease.com/
+read this file in Chinese GB-.
 */
 
 GoTop = function() {
