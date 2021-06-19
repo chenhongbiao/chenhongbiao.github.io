@@ -12,6 +12,4 @@ but I also like the philosophical motto "nothing is true, everything is permitte
 
 Hope you find something interesting here and we can contribute to the future a bit (-w -) // **
 
-[about]: https://chenhongbiao.github.io/cn/about/
-
 
