@@ -3,14 +3,15 @@ layout: home
 avatar: yes
 ---
 
-HI!I am an undergraduate student in Computer science and technology at NorthEastern University, China.
-Even though I read a lot of books, but there is no Achievements to show, regrettably...((/- -)/ 
-However, Here still have some interesting things, including deal with the problems in my learning process.
-Maybe it can help a little. "Nothing is ture, Everything is permitted." is my favorite motto, 
-which contains the independence of thought and freedom of action.
-Currently my research interests include Neural Science, Artificial Intelligence and Brain research.
-I will very glad to receive your Messages.Haha! (-w -) // **
+Hi, welcome to my blog. I'm a student in Cognitive Computational Neuroscience.
+My ultimate goal is to understand the existence of myself (Know thyself), 
+by studying artificial intelligence, human consciousness, physics and everything I need.
+My interests come from the logic in games and the limit of language, leading to the essentials of mind & universe.
+I like the experience of beling alive and thinking about thinking, 
+but I also like the philosophical motto "nothing is true, everything is permitted" from Assassin's Creed.
 
-[about]: http://chenhongbiao.github.io/cn/about/
+Hope you find something interesting here and we can contribute to the future a bit (-w -) // **
+
+[about]: https://chenhongbiao.github.io/cn/about/
 
 
