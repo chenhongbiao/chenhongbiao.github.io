@@ -43,7 +43,7 @@ margin-right:auto;
 }
 
 body {
-font-family:'Times New Roman','Microsoft YaHei', sans-serif;
+font-family:"Tahoma","Arial","Microsoft YaHei",sans-serif;
 line-height:3.125em;
 color:#555;
 background-color:#fff;
@@ -315,7 +315,7 @@ height:auto;
 margin-left:0;
 margin-bottom:1.125em;
 list-style:none;
-font-family: Arial;
+font-family: "Tahoma","Arial","Microsoft YaHei",sans-serif;
 }
 
 .nav>li>a {
@@ -395,7 +395,7 @@ visibility:hidden;
 }
 
 .sitename {
-font-family: Arial;
+font-family: "Tahoma","Arial","Microsoft YaHei",sans-serif;
 }
 
 footer,header,nav,.show {
